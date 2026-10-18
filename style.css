@@ -139,16 +139,6 @@ nav a{
     position:relative;
 }
 
-.orange-circle{
-    width:460px;
-    height:460px;
-    background:#FFB000;
-    border-radius:50%;
-    position:absolute;
-    right:0;
-    top:20px;
-}
-
 .hero-image img{
     width:450px;
     position:relative;
